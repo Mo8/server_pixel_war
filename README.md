@@ -1,9 +1,9 @@
-#To run:
-##Install Dart :
+# To run:
+## Install Dart :
 [Follow tuto](https://www.dartlang.org/install)
-##Mongo Login:
+## Mongo Login:
 Modify the file ./lib/constant.dart with your mongo login username and password
-##Command:
+## Command:
 From root folder:
 ```bash 
 dart run ./bin/server.dart
